@@ -27,7 +27,7 @@
 |Kino plenerowe na Bielanach| Bielany| https://pik.warszawa.pl/kino/kino-plenerowe-na-bielanach/
 |Kino plenerowe na Ursynowie| Ursynów| https://pik.warszawa.pl/kino/kino-plenerowe-na-ursynowie/
 |Kino plenerowe w Pałacyku Konopackiego| Praga-Północ| https://pik.warszawa.pl/kino/kino-plenerowe-w-palacyku-konopackiego/
-|Kino plenerowe Włochy – Boisko SP nr 94| Wola| https://pik.warszawa.pl/kino/kino-plenerowe-wlochy-boisko-sp-nr-94/
+|Kino plenerowe Włochy – Boisko SP nr 94| Włochy| https://pik.warszawa.pl/kino/kino-plenerowe-wlochy-boisko-sp-nr-94/
 |Kino plenerowe Włochy – Park Marka Kotańskiego| Włochy | https://pik.warszawa.pl/kino/kino-plenerowe-wlochy-park-marka-kotanskiego/
 |Kino plenerowe Włochy – Park Ogrody Kosmosu| Włochy | https://pik.warszawa.pl/kino/kino-plenerowe-wlochy-park-ogrody-kosmosu/
 |Kino plenerowe w Centrum Praskie Koneser| Praga-Północ | https://pik.warszawa.pl/kino/kino-plenerowe-w-centrum-praskie-koneser/
