@@ -12,3 +12,7 @@
 ### 23.07
 - python script **scraping_urls.py** for fetching suburls about individual cinema 
 - results match those written out manually in **cinemas.md** (apart from those cinemas where schedule is on facebook, here manual addition will probably be a must)
+### 25.07
+- writing project objectives in **premise.md**
+- moving text files into *notes* folder
+- database schema created
