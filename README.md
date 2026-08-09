@@ -16,3 +16,6 @@
 - writing project objectives in **premise.md**
 - moving text files into *notes* folder
 - database schema created
+### 09.08
+- coming back after vacation break :)
+- creating tables in database (**create.sql**)
