@@ -19,3 +19,7 @@
 ### 09.08
 - coming back after vacation break :)
 - creating tables in database (**create.sql**)
+### 23.08
+- ups, another break :p
+- inserting test rows into database, find out primal key wasn't set to serial (fixed)
+- extracting cinema's names from subpages
