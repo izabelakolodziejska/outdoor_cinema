@@ -17,9 +17,10 @@
 - moving text files into *notes* folder
 - database schema created
 ### 09.08
-- coming back after vacation break :)
 - creating tables in database (**create.sql**)
 ### 23.08
-- ups, another break :p
 - inserting test rows into database, find out primal key wasn't set to serial (fixed)
 - extracting cinema's names from subpages
+### 06.09
+- scraped screening info and location of the cinemas
+- dump results into a jsonl file (**cinemas.jsonl**)
