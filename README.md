@@ -24,3 +24,5 @@
 ### 06.09
 - scraped screening info and location of the cinemas
 - dump results into a jsonl file (**cinemas.jsonl**)
+### 10.09
+- began working on data cleaning part

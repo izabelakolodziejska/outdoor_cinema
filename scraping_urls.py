@@ -26,6 +26,6 @@ for cinema in cinema_cards:
     #print(type(location))
     dict = {"name": name.text.strip(), "content": results, "location" : location}
     #print(dict)
-    with open("cinemas.jsonl", "a", encoding='utf8') as f:
-        f.write(json.dumps(dict, ensure_ascii=False) + "\n")
+    with open("cinemas.jsonl", "a", encoding='utf8') as file:
+        file.write(json.dumps(dict, ensure_ascii=False) + "\n")
     
