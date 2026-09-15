@@ -26,3 +26,22 @@
 - dump results into a jsonl file (**cinemas.jsonl**)
 ### 10.09
 - began working on data cleaning part
+### 15.09
+- figure out how to unflatten jsonl content (string from list of lists)
+- splitting of movie title (works for first example)
+- removing unnecessary tv show title (after "/")
+
+### to-do's
+- remove "" from titles
+- extracting movie titles from file
+- extracting cinema names 
+- extracting date and time of screenings
+- extracting address of cinema
+- extracting district name of cinema
+- inserting records into database
+- handle duplicate logic 
+- automate everything into one script
+- optional: create automatic refresh schema
+- dashboard research and implementation
+- add script for searching extra data about movies (genre, etc)
+- extend dashboard to this new data
