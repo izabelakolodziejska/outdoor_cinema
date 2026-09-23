@@ -30,9 +30,11 @@
 - figure out how to unflatten jsonl content (string from list of lists)
 - splitting of movie title (works for first example)
 - removing unnecessary tv show title (after "/")
+### 23.09
+- extracting title name: removing unnecessary characters, fighting with edge cases ("-" sometimes was part of a title and sometimes it seperated time of the event)
+- find out one bug: while extracting info about "Kino plenetowe w Desa Unicum" turned out movie content was not part of a list here, if it is not seperated case new approach to data extraction will be needed
 
 ### to-do's
-- remove "" from titles
 - extracting movie titles from file
 - extracting cinema names 
 - extracting date and time of screenings
